@@ -33,7 +33,7 @@ copy the stuff into your ~/.config folder. BACK UP YOUR OWN CONFIG FIRST i learn
 ## servus!! (pls read)
 im 14 and from austria btw, so sorry if my english is a bit weird sometimes lol
 
-im still learning lua and python so my configs are probably voll messy. if u have tips on how to make it better pls tell me nicely!! no mob pls, im just a beginner and this is my first time sharing stuff :)
+im still learning lua and python so my configs are probably voll messy. if u have tips on how to make it better pls tell me nicely!! no bullying pls (mobbing like we say in german lol), im just a beginner and this is my first time sharing stuff :)
 
 ## can u recommend me stuff?
 ik its a bit weird to ask this in a dotfiles repo, but u already know im learning lua and python (see above lol). does anybody know good **books** or **courses** for beginners? best would be free ones or really cheap ones cuz im 14 and my pocket money is not that big haha. english or german both work for me!!
