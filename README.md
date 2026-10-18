@@ -27,6 +27,6 @@ copy the stuff into your ~/.config folder. BACK UP YOUR OWN CONFIG FIRST i learn
 ## credits
 - a LOT of googling
 - the arch wiki (thx)
-- an AI that helped me but also broke my fastfetch once, we dont talk about that
+- claude helped me a little with some of the configs, but i did most of it myself (and i broke stuff on my own too)
 
 if u have tips on how to make it better pls tell me!! stars are appreciated :)
