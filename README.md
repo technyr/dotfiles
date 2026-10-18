@@ -24,6 +24,7 @@ copy the stuff into your ~/.config folder. BACK UP YOUR OWN CONFIG FIRST i learn
 - some paths say /home/archix so u have to change them to ur own username
 - if the icons are boxes u need a nerd font
 - cmatrix is not see-through and idk why yet (still working on it)
+- the time in my screenshot might be 3 hours off, idk why. my clock is a bit wrong lol
 
 ## credits
 - a LOT of googling
