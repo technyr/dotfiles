@@ -14,6 +14,7 @@ i use arch btw (i know, i know) with i3 and its my first rice!! it took me like 
 - **fastfetch** - so i can flex my specs in the terminal
 - **prompt** - my terminal prompt has the arch logo in it (needs a nerd font or its just a box lol). yes im that guy
 - **wallpaper** - snow.jpg is in the wallpapers folder, i think it looks really clean
+- **login screen** - i use the breeze sddm theme with my own wallpaper (mountain.jpg, its in the wallpapers folder too). looks so clean when u boot up
 
 ## how to use it
 copy the stuff into your ~/.config folder. BACK UP YOUR OWN CONFIG FIRST i learned this the hard way lol
