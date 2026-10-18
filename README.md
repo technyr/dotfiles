@@ -1,43 +1,32 @@
-# dotfiles
+# my dotfiles :D
 
-My Arch Linux setup: i3, polybar, WezTerm and fastfetch.
+hi!! this is my first time posting my config on github so pls be nice lol
 
+i use arch btw (i know, i know) with i3 and its my first rice!! it took me like a whole weekend and i broke it like 5 times but i finally got it working
 
-## What's in here
+## screenshot
+![screenshot](screenshot12.png)
 
-| Path | What it is |
-|---|---|
-| `.config/i3/` | i3 window manager config (Win key as `$mod`) |
-| `.config/polybar/` | Top bar with workspaces, centered clock and date, music, volume, CPU and memory |
-| `.config/i3status/` | Status config for the stock i3 bar |
-| `.config/wezterm/` | WezTerm: 50% transparency, JetBrainsMono Nerd Font, tab shortcuts |
-| `.config/fastfetch/` | fastfetch with red labels |
+## whats in here
+- **i3** - my window manager. i changed the mod key to the windows key cuz alt was annoying
+- **polybar** - the bar at the top. it has a clock with the year (so i never forget what year it is), my volume, cpu, ram and whatever music is playing. took forever to get the icons working
+- **wezterm** - my terminal, its see-through!! (50% opacity) and i made a shortcut to quit really fast
+- **fastfetch** - so i can flex my specs in the terminal
+- **prompt** - my terminal prompt has the arch logo in it (needs a nerd font or its just a box lol). yes im that guy
+- **wallpaper** - snow.jpg is in the wallpapers folder, i think it looks really clean
 
-## Packages
+## how to use it
+copy the stuff into your ~/.config folder. BACK UP YOUR OWN CONFIG FIRST i learned this the hard way lol
 
-```sh
-sudo pacman -S --needed i3-wm polybar wezterm fastfetch \
-  ttf-jetbrains-mono-nerd playerctl pavucontrol chafa
-```
+## known bugs
+- sometimes i get like 3 polybars at once (fixed it i think??)
+- some paths say /home/archix so u have to change them to ur own username
+- if the icons are boxes u need a nerd font
+- cmatrix is not see-through and idk why yet (still working on it)
 
-## Install
+## credits
+- a LOT of googling
+- the arch wiki (thx)
+- an AI that helped me but also broke my fastfetch once, we dont talk about that
 
-Back up your own configs first, then copy these in:
-
-```sh
-git clone https://github.com/technyr/dotfiles.git ~/dotfiles
-cp -r ~/dotfiles/.config/* ~/.config/
-chmod +x ~/.config/polybar/launch.sh
-i3-msg restart
-```
-
-## Keybinds
-
-- WezTerm: `Ctrl+Q` quit, `Ctrl+T` new tab, `Ctrl+W` close tab, `Ctrl+Tab` next tab
-- i3: `Win` is the modifier, so `Win+Enter` opens a terminal and `Win+Shift+R` reloads
-
-## Notes
-
-- Polybar starts through `launch.sh`, which kills any old instance first so restarts don't stack bars.
-- Icons need a Nerd Font. If you see boxes, install `ttf-jetbrains-mono-nerd` and restart the app.
-- Some paths may point at `/home/archix`, so change them to your own home directory.
+if u have tips on how to make it better pls tell me!! stars are appreciated :)
