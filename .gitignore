@@ -1,0 +1,7 @@
+*.bak
+*.backup*
+*.mine
+config.20*
+config.ini.20*
+config.before-*
+config.lain.jsonc
