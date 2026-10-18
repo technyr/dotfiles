@@ -31,7 +31,7 @@ copy the stuff into your ~/.config folder. BACK UP YOUR OWN CONFIG FIRST i learn
 - claude helped me a little with some of the configs, but i did most of it myself (and i broke stuff on my own too)
 
 ## servus!! (pls read)
-im 14 and from austria btw,, my english is fine tho, im in the highest level (AHS) at school
+im 14 and from austria btw,
 
 im still learning lua and python so my configs are probably messy. if u have tips on how to make it better pls tell me nicely!! no bullying pls (mobbing like we say in german lol), im just a beginner and this is my first time sharing stuff :)
 
